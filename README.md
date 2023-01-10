@@ -7,7 +7,7 @@ My name is Rick Engelage.
 
 
 - 🌱 I’m currently learning Front end web development
-- - ⚡ Fun fact: I am Dutch and 28 years old
+- ⚡ Fun fact: I am Dutch and 28 years old
 - 📫 How to reach me: Sau#8842 (discord)
 
 
